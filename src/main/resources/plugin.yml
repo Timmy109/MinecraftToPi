@@ -1,0 +1,4 @@
+name: MinecraftToPi
+version: ${project.version}
+main: me.tim.minecrafttopi.MinecraftToPi
+api-version: 1.17
